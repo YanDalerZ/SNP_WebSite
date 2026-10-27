@@ -1,0 +1,20 @@
+[debug] [2026-10-27T18:10:49.344Z] ----------------------------------------------------------------------
+[debug] [2026-10-27T18:10:49.348Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\yanda\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2026-10-27T18:10:49.349Z] CLI Version:   15.34.1
+[debug] [2026-10-27T18:10:49.349Z] Platform:      win32
+[debug] [2026-10-27T18:10:49.350Z] Node Version:  v22.22.0
+[debug] [2026-10-27T18:10:49.350Z] Detected Agent: unknown
+[debug] [2026-10-27T18:10:49.350Z] Time:          Wed Oct 28 2026 02:10:49 GMT+0800 (Philippine Standard Time)
+[debug] [2026-10-27T18:10:49.350Z] ----------------------------------------------------------------------
+[debug] 
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\SAGILITY\SNP_WebSite\backend
+
